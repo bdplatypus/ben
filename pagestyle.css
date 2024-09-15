@@ -1,3 +1,7 @@
 body {
   color: #00cc00;
 }
+
+div {
+  border: 1px solid #000000;
+}
