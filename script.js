@@ -1,3 +1,4 @@
 function update() {
-  document.getElementById("")
+  document.getElementById("div").innerHTML += "HI!!! The javascript is working!"
 }
+update();
